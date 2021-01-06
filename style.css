@@ -2,7 +2,6 @@
     list-style: none;
     text-align: right;
     margin-right: 60PX;
-    
 }
 .nav > li{
     float: right;
@@ -59,7 +58,30 @@ section{
     width: 100%;
 }
 .image{
-    width: 90%;
+    width: 70%;
+    position: relative;
+    margin: 0 auto;
 }
+.image img{
+    width: 100%;
+}
+.chat{
+    position: absolute;
+    top: 40%;
+    left: 80%;
+    background-image: linear-gradient(45deg, lightsalmon, tomato);
+    padding: 10px 20px;
+    border-radius: 4px;
+    color: white;
+    text-decoration: none;
+}
+.wrk{
+    color: white;
+    position: absolute;
+    top: 20%;
+    left: 10%;
+    font-size: 40px;
+}
+
 
     
