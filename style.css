@@ -13,8 +13,18 @@
     text-decoration: none;
     color: black;
 }
+h1{
+    font-size: 50px;
+    font-weight: 700px;
+}
+h2{
+    font-size: 40px;
+}
+.name{
+    color: orange;
+}
 .half-width{
-    width: 30%;
+    width: 38%;
     float: left;
     margin-left: 4%;
     padding-left: 4%;
@@ -29,6 +39,15 @@
     border-radius: 4px;
     color: white;
     font-weight: 700;
+}
+.one-third{
+    width: 20%;
+    float: left;
+    margin-left: 1%;
+    padding-left: 1%;
+}
+.one-third img{
+    width: 100%;
 }
 
     
