@@ -97,3 +97,17 @@ section{
 .stay{
     text-align: center;
 }
+.navi{
+    list-style: none;
+    text-align: right;
+    margin-right: 60PX;
+}
+.navi > li{
+    float: right;
+    padding: 25px;
+    margin-right: 20PX;
+}
+
+.navi > li > a{
+    text-decoration: none;
+    color: black;
